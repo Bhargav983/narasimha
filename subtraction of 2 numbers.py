@@ -1,8 +1,7 @@
-print("enter a number")
-a=float(input())
 
-print("enter another number")
-b= float(input())
+a=float(input("enter a number"))
+
+b= float(input("enter another number"))
 
 c = a - b
 
