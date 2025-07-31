@@ -1,0 +1,20 @@
+--- Your Order ---
+Salad      x4 = Rs 164.00
+
+Total bill: Rs 164.00
+--------------------------
+Thank you for dining with us!
+--- Your Order ---
+Pizza      x5 = Rs 405.00
+Water      x5 = Rs 255.00
+
+Total bill: Rs 660.00
+--------------------------
+Thank you for dining with us!
+--- Your Order ---
+Salad      x2 = Rs 82.00
+Pasta      x2 = Rs 142.00
+
+Total bill: Rs 224.00
+--------------------------
+Thank you for dining with us!
